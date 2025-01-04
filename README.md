@@ -1,10 +1,15 @@
 
-
-
-
-
-
 # eLEARNING -  Platform UI
+
+**Company**: CODETECH IT SOLUTIONS  
+**Name**  : SHYAM KUMAR V
+**Id**: CT08EOR 
+**Domain**: FRONTEND WEB DEVELOPMENT  
+**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025
+**Mentor Name** : NEELA SANTHOSH
+
+
+
 
 ![eLEARNING Logo](img/logo.png)
 
