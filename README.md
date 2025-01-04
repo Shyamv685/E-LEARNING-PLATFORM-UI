@@ -87,8 +87,5 @@ Contributions are welcome! If you have suggestions for improvements or want to a
    ```
 5. Open a pull request.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
