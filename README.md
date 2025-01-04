@@ -53,7 +53,15 @@ To get a local copy of this project up and running, follow these steps:
 - Font Awesome
 - jQuery
 - Owl Carousel
+---
 
+## SCREENSHOT
+
+![Screenshot 2025-01-04 082757](https://github.com/user-attachments/assets/dd4d044c-c0e6-43ae-89cf-b607039a32cd)
+![Screenshot 2025-01-04 082741](https://github.com/user-attachments/assets/e3a29bf7-3ad8-4f0a-a4b0-f15506c97106)
+
+
+---
 ## Usage
 
 1. Open the `index.html` file in your web browser.
@@ -83,19 +91,4 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)  
-Project Link: [https://github.com/yourusername/eLEARNING](https://github.com/yourusername/eLEARNING)
----
-### Explanation of the Sections:
-
-- **Overview**: A brief description of the project and its purpose.
-- **Features**: Highlights the key functionalities of the platform.
-- **Installation**: Step-by-step instructions on how to set up the project locally.
-- **Technologies Used**: Lists the technologies and libraries that were utilized in the project.
-- **Usage**: Provides guidance on how to use the platform once it’s set up.
-- **Contributing**: Encourages others to contribute and provides guidelines on how to do so.
-- **License**: Specifies the licensing conditions for the project.
-- **Contact**: Information on how to reach the project maintainer or author.
 
