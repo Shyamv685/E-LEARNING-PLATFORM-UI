@@ -1,5 +1,5 @@
 
-# eLEARNING -  Platform UI
+ ![eLEARNING Logo](img/logo.png) # eLEARNING -  Platform UI
 
 **Company**: CODETECH IT SOLUTIONS  
 
@@ -16,7 +16,6 @@
 
 
 
-![eLEARNING Logo](img/logo.png)
 
 ## Overview
 
